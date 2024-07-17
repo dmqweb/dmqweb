@@ -16,44 +16,71 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 欢迎来到我的频道
-- 🔭 前端爱好者，3年开发经验，目前是一名大三学生。
+## 个人介绍
+- 🔭 前端爱好者，2年开发经验，目前是一名大三学生。
 - ⚡ 个人博客：https://dmqweb.cn
 - 🌱 掌握前端技术栈和多项工具，了解底层原理，并在持续进步...
 - 👯 有志同道合的朋友欢迎一起交流合作，相信我们大有作为!!
 - 💬 npm仓库：https://www.npmjs.com/~dmq000 ，感谢支持！
 - 📫 wx号: d3267807514 ，一起交流进步!!👀
 
-## Hi there 👋
+## 技术栈 👋
+
+<p align="left"> 
+  <a href="https://es6.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/ig/zh/wiki/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a> 
+  <a href="https://v8.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" alt="V8" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
+<a href="https://babeljs.io/docs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a> 
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a> 
+<a href="https://rollupjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" alt="rollup" width="40" height="40"/> </a> 
+<a href="https://less.bootcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank"> <img src="	https://sass-lang.com/assets/img/logos/logo.svg" alt="scss" width="40" height="40"/> </a> 
+<a href="https://expressjs.com/zh-cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.eggjs.org/" target="_blank"> <img src="https://zos.alipayobjects.com/rmsportal/JFKAMfmPehWfhBPdCjrw.svg" alt="egg" width="40" height="40"/> </a> 
+<a href="https://eslint.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a> 
+<a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> 
+<a href="https://www.npmjs.com/package/@dmqcli/moban-cli" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+<a href="https://pnpm.io/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40"/> </a> 
+<a href="https://yarn.bootcss.com/index.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://lerna.js.org/" target="_blank"> <img src="https://lerna.js.org/images/lerna-logo-dark.svg" alt="lerna" width="40" height="40"/> </a> 
+  <a href="https://openwebf.com/" target="_blank"> <img src="https://openwebf.com/img/openwebf.png" alt="webf" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.webpackjs.com/configuration/module/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+  <a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/> </a> 
+</p>
 
 
-<h3 align="left">技术栈</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-**Currently Learning:**
+**正在学习:**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nextjs,nuxtjs,astro,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=k8s,nextjs,nuxtjs,docker,&perline=4" />
+  </a>
+  <a href="https://qiankun.umijs.org/zh/guide">
+    <img src="https://gw.alipayobjects.com/zos/bmw-prod/8a74c1d3-16f3-4719-be63-15e467a68a24/km0cv8vn_w500_h500.png" />
+  </a>
+  <a href="https://github.com/Tencent/wujie">
+    <img src="https://camo.githubusercontent.com/efa3a56225c3a5a…3745f77756a695f64616d792f70684653756855432e706e67" />
+  </a>
+  <a href="https://lisp-lang.org/">
+    <img src="https://lisp-lang.org/assets/img/logo/transparent.png" />
   </a>
 </p>
 
 
-**Contact Me:**
+**联系我:**
 
 <p>
-  <a href="https://space.bilibili.com/1769275177"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-ColourCode?style=flat-square&logo=bilibili&color=%23fb7299"></a>
-  <a href="https://github.com/dmqweb"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-ColourCode?style=flat-square&logo=GitHub&color=%23555555"></a>
-</p>
-
-**Activity：**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.npmjs.com/package/@dmqcli/moban-cli"><img alt="Static Badge" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></a>
+  <a href="https://github.com/dmqweb"><img alt="Static Badge" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
 </p>
 
 [![dmq0's GitHub | Topics Over Time](https://stats.quine.sh/dmq0/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=dmq0)
