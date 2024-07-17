@@ -1,9 +1,7 @@
 
 <!--
 **dmq0/dmq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats)
 
 ## 个人介绍
 - 🔭 前端爱好者，2年开发经验，目前是一名大三学生。
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 👯 有志同道合的朋友欢迎一起交流合作，相信我们大有作为!!
 - 💬 npm仓库：https://www.npmjs.com/~dmq000 ，感谢支持！
 - 📫 wx号: d3267807514 ，一起交流进步!!👀
-
 ## 技术栈 👋
 
 <p align="left"> 
@@ -64,23 +63,16 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=k8s,nextjs,nuxtjs,docker,&perline=4" />
   </a>
-  <a href="https://qiankun.umijs.org/zh/guide">
-    <img src="https://gw.alipayobjects.com/zos/bmw-prod/8a74c1d3-16f3-4719-be63-15e467a68a24/km0cv8vn_w500_h500.png" />
-  </a>
-  <a href="https://github.com/Tencent/wujie">
-    <img src="https://camo.githubusercontent.com/efa3a56225c3a5a…3745f77756a695f64616d792f70684653756855432e706e67" />
-  </a>
-  <a href="https://lisp-lang.org/">
-    <img src="https://lisp-lang.org/assets/img/logo/transparent.png" />
-  </a>
 </p>
 
 
 **联系我:**
 
-<p>
+<p align="left">
   <a href="https://www.npmjs.com/package/@dmqcli/moban-cli"><img alt="Static Badge" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></a>
-  <a href="https://github.com/dmqweb"><img alt="Static Badge" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/dmqweb"><img alt="Static Badge" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a></a>
 </p>
 
 [![dmq0's GitHub | Topics Over Time](https://stats.quine.sh/dmq0/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=dmq0)
