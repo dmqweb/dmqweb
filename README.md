@@ -2,30 +2,25 @@
 <!--
 **dmq0/dmq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ 个人博客：https://dmqweb.cn
+- 🌱 掌握前端技术栈和多项工具，了解底层原理，并在持续进步...
+- 👯 有志同道合的朋友欢迎一起交流合作，相信我们大有作为!!
+- 💬 npm仓库：https://www.npmjs.com/~dmq000 ，感谢支持！
+- 📫 wx号: d3267807514 ，一起交流进步!!👀
 -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 个人介绍
-- 🔭 前端爱好者，2年开发经验，目前是一名大三学生。
-- ⚡ 个人博客：https://dmqweb.cn
-- 🌱 掌握前端技术栈和多项工具，了解底层原理，并在持续进步...
-- 👯 有志同道合的朋友欢迎一起交流合作，相信我们大有作为!!
-- 💬 npm仓库：https://www.npmjs.com/~dmq000 ，感谢支持！
-- 📫 wx号: d3267807514 ，一起交流进步!!👀
+## About
+- ⚡ Personal Blog: https://dmqweb.cn
+- 🌱 Proficient in front-end technologies and various tools, understanding underlying principles, and continuously improving...
+- 👯 Looking for like-minded friends to collaborate with—let's achieve great things together!
+- 💬 npm Repository: https://www.npmjs.com/~dmq000 — thanks for your support!
+- 📫 WeChat ID: d3267807514 — let's connect and grow together! 👀
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats)
-## 技术栈 👋
-
+## Skills 👋
 <p align="left"> 
     <a href="https://www.w3.org/html/ig/zh/wiki/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
@@ -52,11 +47,10 @@ Here are some ideas to get you started:
   <a href="https://lerna.js.org/" target="_blank"> <img src="https://lerna.js.org/images/lerna-logo-dark.svg" alt="lerna" width="40" height="40"/> </a>
   <a href="https://openwebf.com/" target="_blank"> <img src="https://openwebf.com/img/openwebf.png" alt="webf" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
 </p>
 
 
-**正在学习:**
+**Learning:**
 
 <p align="left">
   <a href="https://skillicons.dev">
