@@ -9,16 +9,11 @@ Here are some ideas to get you started:
 - 📫 wx号: d3267807514 ，一起交流进步!!👀
 -->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## About
 - ⚡ Personal Blog: https://dmqweb.cn
+- 💬 npm Repository: https://www.npmjs.com/~dmq000
 - 🌱 Proficient in front-end technologies and various tools, understanding underlying principles, and continuously improving...
 - 👯 Looking for like-minded friends to collaborate with—let's achieve great things together!
-- 💬 npm Repository: https://www.npmjs.com/~dmq000 — thanks for your support!
-- 📫 WeChat ID: d3267807514 — let's connect and grow together! 👀
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats)
 ## Skills 👋
 <p align="left"> 
