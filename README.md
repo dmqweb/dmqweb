@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,v8,react,vue,rust,python,docker,node,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=typescript,V8,react,vue,rust,python,docker,node,&perline=8" />
   </a>
 </p>
 
