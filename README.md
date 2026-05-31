@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 <!-- - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats) -->
 ## Skills
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,vue,rust,python,docker,node,&perline=7" />
-  </a>
-    <a href="https://v8.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" alt="V8" width="40" height="40"/> </a> 
+  <img src="https://skillicons.dev/icons?i=typescript,react,vue,rust,python,docker,node,&perline=7" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" alt="V8" />
 </p>
 
 <!-- **Learning:**
