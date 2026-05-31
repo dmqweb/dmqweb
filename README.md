@@ -8,14 +8,39 @@ Here are some ideas to get you started:
 - 💬 npm仓库：https://www.npmjs.com/~dmq000 ，感谢支持！
 - 📫 wx号: d3267807514 ，一起交流进步!!👀
 -->
+<!-- 🏆奖杯 -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dmqweb)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## About
 - ⚡ Personal Blog: https://dmqweb.cn
 - 💬 npm Repository: https://www.npmjs.com/~dmq000
 - 🌱 Proficient in front-end technologies and various tools, understanding underlying principles, and continuously improving...
 - 👯 Looking for like-minded friends to collaborate with—let's achieve great things together!
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats)
-## Skills 👋
+<!-- github贡献值 -->
+<!-- - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmqweb)](https://git.io/streak-stats) -->
+## Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,v8,react,vue,rust,python,docker,node,&perline=8" />
+  </a>
+</p>
+
+<!-- **Learning:**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=k8s,nextjs,nuxtjs,docker,&perline=4" />
+  </a>
+</p> -->
+
+<!-- Topic Over Time -->
+<!-- [![dmq0's GitHub | Topics Over Time](https://stats.quine.sh/dmq0/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=dmq0) -->
+
+
+
+
+
+<!-- ## Skills 👋
 <p align="left"> 
     <a href="https://www.w3.org/html/ig/zh/wiki/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
@@ -42,16 +67,4 @@ Here are some ideas to get you started:
   <a href="https://lerna.js.org/" target="_blank"> <img src="https://lerna.js.org/images/lerna-logo-dark.svg" alt="lerna" width="40" height="40"/> </a>
   <a href="https://openwebf.com/" target="_blank"> <img src="https://openwebf.com/img/openwebf.png" alt="webf" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-
-**Learning:**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=k8s,nextjs,nuxtjs,docker,&perline=4" />
-  </a>
-</p>
-
-
-[![dmq0's GitHub | Topics Over Time](https://stats.quine.sh/dmq0/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=dmq0)
+</p> -->
