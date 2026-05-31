@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,V8,react,vue,rust,python,docker,node,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,vue,rust,python,docker,node,&perline=7" />
   </a>
+    <a href="https://v8.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" alt="V8" width="40" height="40"/> </a> 
 </p>
 
 <!-- **Learning:**
