@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Skills
 <p align="left">
   <!-- <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=typescript,react,vue,webpack,vite,threejs,wasm,rust,python,ai,nodejs,mysql,nestjs,redis,docker,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,vue,webpack,vite,threejs,wasm,rust,python,nodejs,mysql,nestjs,redis,docker,ai,&perline=14" />
   <!-- </a> -->
 </p>
 <!-- **Learning:**
