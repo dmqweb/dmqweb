@@ -41,6 +41,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+
+    <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <!-- Chrome -->
+  <img src="https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white" />
+  <!-- Claude Code -->
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" />
+  <!-- DeepSeek Harness（无官方图标，纯文字） -->
+  <img src="https://img.shields.io/badge/DeepSeek%20Harness-1A1A1A" />
 </p>
 </p>
   <!-- </a> -->
