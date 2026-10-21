@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <!-- <a href="https://skillicons.dev"> -->
     <p align="left">
   <!-- <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=typescript,react,vue,webpack,vite,threejs,webgl,wasm,cpp,rust,python,nodejs,mysql,nestjs,redis,docker,ai&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,vue,webpack,vite,threejs,opengl,wasm,cpp,rust,python,nodejs,mysql,nestjs,redis,docker,ai&perline=14" />
 </p>
   <!-- </a> -->
 </p>
