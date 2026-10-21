@@ -24,17 +24,19 @@ Here are some ideas to get you started:
     <!-- <img src="https://skillicons.dev/icons?i=typescript,react,vue,webpack,vite,threejs,wasm,cpp,rust,python,nodejs,mysql,nestjs,redis,docker,ai&perline=14" /> -->
       <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+        
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
