@@ -29,21 +29,31 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
         
+  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nand2Tetris-4A90D9" />
+  <img src="https://img.shields.io/badge/Compiler%20Principles-6C5CE7" />
+  <img src="https://img.shields.io/badge/Algorithms-00B894" />
+        
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whistle-FF6B6B" />
+
+  
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek%20Harness-1A1A1A" />
 </p>
